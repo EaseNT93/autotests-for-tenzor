@@ -1,5 +1,5 @@
-from Pages.YandexPages import SearchHelper
-from Pages.YandexPages import YandexLocators as YaLoc
+from pages.YandexPages import SearchHelper
+from pages.YandexPages import YandexLocators as YaLoc
 
 
 def test_yandex_search_page(browser):
